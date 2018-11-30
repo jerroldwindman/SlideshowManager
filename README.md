@@ -4,3 +4,4 @@ The idea of this project was to demonstrate an understanding of stacks, because 
 redo changes made to the slide show.
 
 
+Run application via SlideshowManager.java
